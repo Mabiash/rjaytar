@@ -109,7 +109,7 @@ img{
     display: none;
 }
 
-@media screen and (Min-width: 350px) {
+@media screen and (Max-width: 350px) {
     .container{
         width: 90%;
     }
